@@ -1,0 +1,7 @@
+{
+  "token": "",
+  "sourceText": "train/source.txt",
+  "minLength": 4,
+  "stateSize": 2,
+  "replyProbability": 1.0
+}

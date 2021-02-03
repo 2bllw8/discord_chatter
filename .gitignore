@@ -1,0 +1,10 @@
+/.idea
+/node_modules
+/package-lock.json
+
+/train/*
+!/train/.gitkeep
+
+.DS_Store
+/*/.DS_Store
+/*.zip

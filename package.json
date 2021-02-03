@@ -1,0 +1,23 @@
+{
+  "name": "discord_chatter",
+  "version": "1.0.0",
+  "description": "Discord bot that uses markov chains",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2bllw8/discord_chatter.git"
+  },
+  "author": "2bllw8",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/2bllw8/discord_chatter/issues"
+  },
+  "homepage": "https://github.com/2bllw8/discord_chatter#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node": "^15.7.0"
+  }
+}
